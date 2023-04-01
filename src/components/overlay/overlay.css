@@ -1,0 +1,8 @@
+.overlay-container{
+    outline: 2px solid red;
+    height: 500px;
+    width: 800px;
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FlNzg0Njc4ZDUyZjc4MGE4NGQ5YjFmNGU5MWMzYzhmMjgwYWM4ZiZjdD1n/KAI3j7HLC93Lq/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
